@@ -1,8 +1,10 @@
 ﻿# 總匯討論／閒聊區
 
-討論區： [https://github.com/teach-and-learn/chat/issues][1]
+* 討論： [https://github.com/teach-and-learn/chat/issues][5]
+* 標籤： [https://github.com/teach-and-learn/chat/labels][6]
 
-[1]: https://github.com/teach-and-learn/chat/issues
+[5]: https://github.com/teach-and-learn/chat/issues
+[6]: https://github.com/teach-and-learn/chat/labels
 
 
 ##  討論主題
