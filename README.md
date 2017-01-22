@@ -4,28 +4,26 @@
 
 [1]: https://github.com/teach-and-learn/chat/issues
 
- **與這個社群有直接關係的** 事務、問題(question & problem)、建議、有的沒
-的五四三的，目前(2016-12-13)通通在這裡討論閒聊，以後視需要再分流。
 
----
-在這裡醜話說在前面：
+##  討論主題
 
-> 目前(2016-12-13) GitHub 把留言(comment) 設計成可以自刪、而修改內容也只
-> 會留下「修改日期、紀錄」但沒有「修改內容歷史」。
->
-> **濫用這設計、情節重大者，抓到就是 permaban** 。
+* 英語學習；例如，問題、心得、感想。
+* 社群運作；例如，意見、建議、評論。
 
-我無法在此窮舉所有的「濫用」情形；大致上來說，就是公器私用，有失誠信，例
-如：國防布／自爆文，為了私利，修文／刪文掩蓋、扭曲、誤導客觀事實。
 
-另一方面，是的，這樣的制度給社群管理者極大的人治權力、自由心證的空間，並
-不理想；比較理想的狀態是由管理者提供中立的證據保全，然後後社群自治。這在
-[技術上是有可能的][2] ，但實務上有「雞生蛋，蛋生雞」的問題：
+##  討論風氣
 
-> 會有這個問題，是因為選擇了 GitHub ；而之所以會選擇 GitHub ，就是因為沒
-> 有資源架站；如果有資源架站（以備份資料作證據保全），那一開始就沒必要選
-> 擇 GitHub ……
+基本上，就是「文明、理性、客觀、道德」這類 **常識** 。
 
-[2]: https://developer.github.com/v3/activity/events/types/#issuecommentevent
+* 強烈建議先看過這兩篇東西：
+  * [提問的智慧][1]([How To Ask Questions The Smart Way][2])
+  * [為什麼你會認為你是對的 － 儘管你是錯的][3]([Why you think you're right -- even if you're wrong][4])
+* 儘量以「英語學習」或「社群運作」為討論中心。
+* 儘量不要把與「英語學習」或「社群運作」完全無關的題目帶進來。
+* GitHub issue comment  內容可以自己刪改，且不會留下詳細的編輯歷史紀錄；
+  這是給大家方便， **不要謀私濫用** 。
 
-是故，因為受限於現實環境，所以目前(2016-12-13)就只能先這樣作。
+[1]: http://www.catb.org/~esr/faqs/smart-questions.html
+[2]: https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way
+[3]: https://www.ted.com/talks/julia_galef_why_you_think_you_re_right_even_if_you_re_wrong/transcript?language=zh-tw
+[4]: https://www.ted.com/talks/julia_galef_why_you_think_you_re_right_even_if_you_re_wrong/transcript?language=en
