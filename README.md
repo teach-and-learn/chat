@@ -25,7 +25,7 @@
 * GitHub issue comment  內容可以自己刪改，且不會留下詳細的編輯歷史紀錄；
   這是給大家方便， **不要謀私濫用** 。
 
-[1]: http://www.catb.org/~esr/faqs/smart-questions.html
-[2]: https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way
+[1]: https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README.md
+[2]: http://www.catb.org/~esr/faqs/smart-questions.html
 [3]: https://www.ted.com/talks/julia_galef_why_you_think_you_re_right_even_if_you_re_wrong/transcript?language=zh-tw
 [4]: https://www.ted.com/talks/julia_galef_why_you_think_you_re_right_even_if_you_re_wrong/transcript?language=en
